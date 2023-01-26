@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "R35 Full Titanium Tail End",
+    "price": 1050,
+    "src": "randomurl"
+  },
+  {
+    "id": 2,
+    "name": "R35 M17 Full Bumper Kit Ver.S",
+    "price": 2319,
+    "src": "randomurl2"
+  },
+  {
+    "id": 3,
+    "name": "R35 Separate Tank Type Dumptronic Coilover",
+    "price": 5087,
+    "src": "randomurl3"
+  },
+  {
+    "id": 4,
+    "name": "OZ NEW FUTURA TOP SECRET",
+    "price": 1683,
+    "src": "randomurl4"
+  },
+  {
+    "id": 5,
+    "name": "R35 Carbon LED Mirror",
+    "price": 1122,
+    "src": "randomurl5"
+  },
+  {
+    "id": 6,
+    "name": "R35 Dash Panel (Dry Carbon)",
+    "price": 486,
+    "src": "randomurl6"
+  },
+  {
+    "id": 7,
+    "name": "[Discontinued] R35 Induction Kit Ver.2",
+    "price": 710,
+    "src": "randomurl7"
+  },
+  {
+    "id": 8,
+    "name": "R35 Oil Catch Tank",
+    "price": 389,
+    "src": "randomurl8"
+  },
+]
